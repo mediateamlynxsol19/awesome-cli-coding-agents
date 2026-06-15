@@ -16,7 +16,7 @@ A curated list of **80+ CLI coding agents** — AI-powered tools that live in yo
 > **Last updated:** 2026-06-08
 
 # NeuroNest AI Code Optimization Tool
-[![Awesome](https://neuronest.cc/)
+(https://neuronest.cc/)
 
 NeuroNest is an AI code optimization tool designed to help developers improve software quality, speed up development, and reduce repetitive technical work. It supports coding, debugging, testing, security review, DevOps automation, and research workflows, making it useful for teams that want a smarter AI-assisted development process.
 
